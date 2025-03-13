@@ -15,17 +15,6 @@ Este proyecto consiste en una aplicación web que permite gestionar un sorteo de
 - **Reiniciar el sorteo**: Permite borrar todos los amigos y comenzar de nuevo.
 - **Interfaz simple y centrada**: Los botones y campos están organizados para facilitar la interacción. 
 
-# Estructura del Proyecto
-
-amigo-secreto/
-├── index.html           # Archivo principal de la página
-├── style.css            # Estilos para la interfaz de usuario
-├── app.js               # Lógica del sorteo y gestión de amigos
-└── assets/              # Carpeta con imágenes y otros archivos estáticos
-    └── amigo-secreto.png
-    └── play_circle_outline.png
-
-
 ## Instalación
 
 1. **Clonar el repositorio**:
