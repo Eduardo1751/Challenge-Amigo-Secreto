@@ -36,9 +36,16 @@ amigo-secreto/
 
 ## Uso
 Ingresa el nombre de tus amigos en el campo de texto.
+
 ![Ingresa Nombre](assets/DigiteNombre.png)
+
 Haz clic en el botón "Añadir" para agregar un nombre.
+
+![Ingresa Nombre](assets/Añadir.png)
+
 Una vez que hayas añadido todos los amigos, haz clic en "Sortear amigo" para realizar el sorteo.
+![Ingresa Nombre](SortearAmigo.png)
+
 Si deseas reiniciar el sorteo, haz clic en el botón "Reiniciar sorteo".
 
 ¡Gracias por usar Amigo Secreto! Esperamos que disfrutes el sorteo con tus amigos.
